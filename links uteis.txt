@@ -1,0 +1,8 @@
+links uteis 
+
+https://github.com/
+https://www.markdownguide.org/getting-started/
+
+links para entrar e criar conta no github que é um repositório
+
+link para tirar duvidas sobre o arquivo do tipo markdown
